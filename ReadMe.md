@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+
 # 💫 About Me:
 🌱 I’m currently learning<br>🐘 Advanced PHP and MySQL<br>🎨 Tailwind CSS, JavaScript DOM, jQuery<br>☕ Java OOPs (Object-Oriented Programming)<br><br><br>💬 Ask me about<br>🛡️ Web security best practices<br>🧱 Full-stack project structuring<br>🚀 My journey from basics to building production-ready apps<br><br>⚡ Fun fact<br>I turn caffeine ☕ into code and bugs into features! Sometimes I debug better at midnight than at noon 🌙💡
 
