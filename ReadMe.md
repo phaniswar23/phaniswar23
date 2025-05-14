@@ -1,6 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Phaniswar!;" />
+  Hi 👋, I'm Phaniswar!
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Full+Stack+Web+Developer;Computer+Science+Student;PHP+%7C+MySQL+%7C+Tailwind+%7C+Java+%7C+Security+Enthusiast" />
+</p>
+
 
 ## 💫 About Me:
 🌱 I’m currently learning<br>🐘 Advanced PHP and MySQL<br>🎨 Tailwind CSS, JavaScript DOM, jQuery<br>☕ Java OOPs (Object-Oriented Programming)<br><br>
