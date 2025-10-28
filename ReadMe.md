@@ -40,6 +40,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=phaniswar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=phaniswar23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phaniswar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github.com/phaniswar23/phaniswar23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=phaniswar23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
